@@ -18,3 +18,4 @@ for line in f:
 print('File read complete')
 #Why is this happening
 #python works in mysterious ways
+# Lets see the how variable does
