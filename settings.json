@@ -5,7 +5,7 @@
 	"predict_file_name":"knn_predict.py",
 	"train_file_type":"rscript",
 	"train_file_name":"testmodel.py",
-	"model_name":"Economic Profitability",
+	"model_name":"demo",
 	"model_summary":"KNN model for any data set",
 	"git_remote_link":"https://shivamdhole:shivamdhole123@bitbucket.org/growingdata/tezzas_model.git"
 
